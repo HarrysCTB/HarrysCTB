@@ -31,7 +31,7 @@ L'apprentissage est un voyage sans fin pour moi. Actuellement, je me concentre s
 ## 🚧 Projets (En construction)
 Je travaille actuellement sur la mise en place de cette section. Restez à l'écoute pour découvrir mes projets passionnants !
 
-![En construction]((https://giphy.com/gifs/homer-high-quality-nailing-a7oVsf3WTOaoE))
+![En construction](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFmcjRmaG9vdjB3cjA1amY4NDgya3Z0OXRxbTFicXR5YWE1aTA5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Mb774rffWwh0AXm/giphy.gif)
 
 ## 📫 Comment me contacter ?
 Pour toute collaboration, question ou simplement pour dire bonjour, n'hésitez pas à me contacter via :
