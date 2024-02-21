@@ -4,9 +4,8 @@
 Je m'appelle Elarif, actuellement en bachelor de développement logiciel et en alternance, je poursuis mon rêve de créer ma propre entreprise. Passionné et polyvalent, j'apprends rapidement et m'intéresse à une multitude de domaines, toujours avec l'envie d'explorer et de maîtriser de nouvelles technologies.
 
 ## 💻 Technologies
-Je maîtrise un éventail de langages de programmation et de frameworks, notamment :
-
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+Je possède une solide expérience dans plusieurs langages de programmation et frameworks, notamment :
+- **Langages : ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -14,7 +13,7 @@ Je maîtrise un éventail de langages de programmation et de frameworks, notamme
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+- **Frameworks : ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
@@ -23,11 +22,6 @@ Je maîtrise un éventail de langages de programmation et de frameworks, notamme
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-## 💻 Technologies
-Je possède une solide expérience dans plusieurs langages de programmation et frameworks, notamment :
-- **Langages :** C, C++, Java, JavaScript, TypeScript, Python, HTML, CSS
-- **Frameworks :** Django, React, Next.js, Nuxt.js, Vue.js, Selenium, BeautifulSoup, Spring, FastAPI
 
 Je suis constamment en quête de perfectionnement et j'ai actuellement pour objectif d'apprendre le Ruby, d'approfondir mes connaissances en Python, et de me spécialiser davantage dans les frameworks frontaux tels que React.
 
