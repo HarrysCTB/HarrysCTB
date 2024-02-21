@@ -28,6 +28,11 @@ Je suis constamment en quête de perfectionnement et j'ai actuellement pour obje
 ## 🌱 Apprentissage et développement
 L'apprentissage est un voyage sans fin pour moi. Actuellement, je me concentre sur l'expansion de mes compétences en Ruby et sur le peaufinage de mes connaissances en Python et dans les frameworks frontaux. Chaque nouvelle compétence est une porte ouverte vers de nouvelles opportunités et défis.
 
+## 🚧 Projets (En construction)
+Je travaille actuellement sur la mise en place de cette section. Restez à l'écoute pour découvrir mes projets passionnants !
+
+![En construction](https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif)
+
 ## 📫 Comment me contacter ?
 Pour toute collaboration, question ou simplement pour dire bonjour, n'hésitez pas à me contacter via :
 - Email: [elarif.pro@gmail.com](mailto:elarif.pro@gmail.com)
