@@ -22,6 +22,9 @@ Je possède une solide expérience dans plusieurs langages de programmation et f
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+- **Technologies et Outils :** ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 Je suis constamment en quête de perfectionnement et j'ai actuellement pour objectif d'apprendre le Ruby, d'approfondir mes connaissances en Python, et de me spécialiser davantage dans les frameworks frontaux tels que React.
 
