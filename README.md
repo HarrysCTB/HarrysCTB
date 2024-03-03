@@ -28,6 +28,7 @@ Je possède une solide expérience dans plusieurs langages de programmation et f
 - **Technologies et Outils :** ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=MongoDB&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=Docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat-square&logo=GitHub%20Actions&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 Je suis constamment en quête de perfectionnement et j'ai actuellement pour objectif d'apprendre le Ruby, d'approfondir mes connaissances en Python, et de me spécialiser davantage dans les frameworks frontaux tels que React.
 
