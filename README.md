@@ -53,3 +53,6 @@ En dehors de la technologie et du développement, je suis passionné par la cré
 
 Je suis toujours à la recherche de nouvelles opportunités de collaboration et d'apprentissage. Si vous avez un projet en tête ou souhaitez simplement discuter de technologie, n'hésitez pas à me contacter !
 
+---
+
+<a href="https://app.daily.dev/elarifcoding"><img src="https://api.daily.dev/devcards/v2/jXUJYNyEWLusHisiHau2d.png?r=xga&type=wide" width="652" alt="Elarif Inzoudine's Dev Card"/></a>
