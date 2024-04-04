@@ -45,7 +45,7 @@ Pour toute collaboration, question ou simplement pour dire bonjour, n'hésitez p
 - Email: [elarif.pro@gmail.com](mailto:elarif.pro@gmail.com)
 - LinkedIn: [Elarif Inzoudine](https://www.linkedin.com/in/elarif-inzoudine/)
 - Twitter: [@elarifcoding](https://twitter.com/elarifcoding)
-- CV: [Consultez mon CV](https://github.com/HarrysCTB/myCV/blob/main/CV%20Elarif%20Alternance.pdf)
+- CV: [Consultez mon CV](https://github.com/HarrysCTB/myCV/blob/main/CV%20Elarif%20Inzoudine.pdf)
 
 ## 🎨 Passions et intérêts
 En dehors de la technologie et du développement, je suis passionné par la création sous toutes ses formes. Que ce soit dans le domaine de la mode, de la musique ou de la technologie, j'aime expérimenter, créer et innover. Ces passions alimentent ma créativité et inspirent mon travail dans le développement logiciel.
