@@ -48,6 +48,14 @@ L'apprentissage est un voyage sans fin pour moi. Actuellement, je me concentre s
 
 Une librairie JavaScript dédiée à l’analyse et la visualisation de données de football. SoccerGraph propose des graphiques interactifs pour suivre les trajectoires et les performances des joueurs, avec un design modulable pour une intégration facile dans diverses plateformes. [Soccer Graph](https://github.com/HarrysCTB/SoccerGraph.js)
 
+•	**DockerCI** – (en développement)
+
+Un projet dédié à la mise en place d'une CI utilisant les principes de conteneurisation  à l'aide de Docker et d'intégration continue dans un serveur VPS. [Docker CI](https://github.com/HarrysCTB/SoccerGraph.js)
+
+•	**Crowd Simulation** – (en développement)
+
+Une simulation de foule interactive et visuelle utilisant Python. Il explore les dynamiques complexes des mouvements de foule, y compris l'évitement d'obstacles, le comportement collectif, et les interactions individuelles, avec un accent sur l'analyse et la visualisation des données. [Crowd Simulation](https://github.com/HarrysCTB/Crowd-Simulation)
+
 ## 📫 Comment me contacter ?
 Pour toute collaboration, question ou simplement pour dire bonjour, n'hésitez pas à me contacter via :
 - Email: [elarif.pro@gmail.com](mailto:elarif.pro@gmail.com)
